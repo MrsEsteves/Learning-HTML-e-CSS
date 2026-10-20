@@ -29,11 +29,3 @@ guardar tudo o que for praticando, aula por aula.
 ## Autora
 
 MrsEsteves – [meu perfil no GitHub](https://github.com/MrsEsteves)
-
-
-
-
-
-
-
-Assim ta legal?
