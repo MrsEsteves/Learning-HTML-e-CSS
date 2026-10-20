@@ -13,8 +13,6 @@ guardar tudo o que for praticando, aula por aula.
 - `exercicios/` – Exercícios feitos durante as aulas
 - `desafios/` – Desafios propostos pelo professor
 
-<img align="right" width="300" src="imagens/mascote.png" alt="Minha mascote">
-
 ## Progresso
 
 - [ ] Módulo 01 – HTML básico (em andamento)
