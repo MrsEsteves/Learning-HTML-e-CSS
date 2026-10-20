@@ -1,5 +1,3 @@
-<img align="right" width="300" src="imagens/mascote.png" alt="Minha mascote">
-
 # Meus estudos de HTML e CSS
 
 Repositório com as minhas aulas e exercícios do curso de HTML e CSS
