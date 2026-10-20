@@ -15,6 +15,8 @@ guardar tudo o que for praticando, aula por aula.
 
 ## Progresso
 
+<img align="right" width="300" src="imagens/mascote.png" alt="Minha mascote">
+
 - [ ] Módulo 01 – HTML básico (em andamento)
 - [ ] Módulo 02
 - [ ] Módulo 03
