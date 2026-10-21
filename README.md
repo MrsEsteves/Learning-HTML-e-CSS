@@ -1,33 +1,33 @@
-# Meus estudos de HTML e CSS
+# My HTML and CSS Studies
 
-Repositório com as minhas aulas e exercícios do curso de HTML e CSS
-do professor Gustavo Guanabara (Curso em Vídeo).
+Repository containing my lessons and exercises from the HTML and CSS course 
+by Professor Gustavo Guanabara (Curso em Vídeo).
 
-## Sobre
+## About
 
-Estou aprendendo desenvolvimento web e uso este repositório para
-guardar tudo o que for praticando, aula por aula.
+I am learning web development and using this repository to 
+keep track of everything I practice, lesson by lesson.
 
-## Conteúdo
+## Content
 
-- `exercicios/` – Exercícios feitos durante as aulas
-- `desafios/` – Desafios propostos pelo professor
+- `exercicios/` – Exercises completed during lessons
+- `desafios/` – Challenges proposed by the professor
 
-## Progresso
+## Progress
 
 <img align="right" width="300" hspace="60" src="imagens/mascote.png" alt="Minha mascote">
 
-- [ ] Módulo 01 – HTML básico (em andamento)
-- [ ] Módulo 02
-- [ ] Módulo 03
-- [ ] Módulo 04
-- [ ] Módulo 05
+- [ ] Module 01 – Basic HTML (in progress)
+- [ ] Module 02
+- [ ] Module 03
+- [ ] Module 04
+- [ ] Module 05
 
-## Tecnologias
+## Technologies
 
 - HTML5
 - CSS3
 
-## Autora
+## Author
 
-MrsEsteves – [meu perfil no GitHub](https://github.com/MrsEsteves)
+MrsEsteves – [my GitHub profile](https://github.com/MrsEsteves)
